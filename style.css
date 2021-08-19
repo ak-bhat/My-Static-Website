@@ -316,7 +316,7 @@ a {
   text-decoration: none;
     height: 53px;
     width: 53px;
-  background:rgba(230, 230, 230, 0) url("../left-arrow.png") no-repeat left top;
+  background:rgba(230, 230, 230, 0) url("left-arrow.png") no-repeat left top;
   margin-top: -45px;
   }
 
@@ -326,7 +326,7 @@ a {
 
 .callbacks_nav.next {
   left: auto;
-   background:rgba(230, 230, 230, 0)  url("../right-arrow.png") no-repeat 0px 0px;
+   background:rgba(230, 230, 230, 0)  url("right-arrow.png") no-repeat 0px 0px;
   background-position: right top;
   right: 0;
   }
@@ -940,7 +940,7 @@ footer p a:hover{color:white;}
     height: 40px;
     border: none;
     text-indent: 100%;
-    background: url("../images/arr.png") no-repeat 0px 0px;
+    background: url("../arr.png") no-repeat 0px 0px;
     background-size: 40px;
 }
 
@@ -1701,7 +1701,7 @@ ul.address li ul.address-text li {
     background-size: cover;
 }
 .sports {
-    background: url("back.jpg")no-repeat center;
+    background: url("../back.jpg")no-repeat center;
     background-size: cover;
 }
 
