@@ -1689,15 +1689,15 @@ ul.address li ul.address-text li {
 }
 /*--//responsive--*/
 .experience {
-    background: url(../edu.jpg)no-repeat center;
+    background: url("edu.jpg")no-repeat center;
     background-size: cover;
 }
 .project {
-    background: url(../pro.jpg)no-repeat center;
+    background: url("pro.jpg")no-repeat center;
     background-size: cover;
 }
 .gallery {
-    background: url(../gal.jpg)no-repeat center;
+    background: url("gal.jpg")no-repeat center;
     background-size: cover;
 }
 .sports {
