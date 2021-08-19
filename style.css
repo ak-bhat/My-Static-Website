@@ -316,7 +316,7 @@ a {
   text-decoration: none;
     height: 53px;
     width: 53px;
-  background:rgba(230, 230, 230, 0) url("../images/left-arrow.png") no-repeat left top;
+  background:rgba(230, 230, 230, 0) url("../left-arrow.png") no-repeat left top;
   margin-top: -45px;
   }
 
@@ -326,7 +326,7 @@ a {
 
 .callbacks_nav.next {
   left: auto;
-   background:rgba(230, 230, 230, 0)  url("../images/right-arrow.png") no-repeat 0px 0px;
+   background:rgba(230, 230, 230, 0)  url("../right-arrow.png") no-repeat 0px 0px;
   background-position: right top;
   right: 0;
   }
@@ -506,7 +506,7 @@ a.there-more:nth-child(1) {
 /*--//about--*/
 /*--services--*/
 .services {
-    background: url(../images/s1.jpg)no-repeat center;
+    background: url(../s1.jpg)no-repeat center;
     background-size: cover;
 }
 .my-ser-left {
@@ -1689,19 +1689,19 @@ ul.address li ul.address-text li {
 }
 /*--//responsive--*/
 .experience {
-    background: url(../images/edu.jpg)no-repeat center;
+    background: url(../edu.jpg)no-repeat center;
     background-size: cover;
 }
 .project {
-    background: url(../images/pro.jpg)no-repeat center;
+    background: url(../pro.jpg)no-repeat center;
     background-size: cover;
 }
 .gallery {
-    background: url(../images/gal.jpg)no-repeat center;
+    background: url(../gal.jpg)no-repeat center;
     background-size: cover;
 }
 .sports {
-    background: url(../images/back.jpg)no-repeat center;
+    background: url(../back.jpg)no-repeat center;
     background-size: cover;
 }
 
